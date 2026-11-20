@@ -1,0 +1,11 @@
+{
+  "NOMBRE_NEGOCIO": "Agua Purificada Ejemplo Ficticio",
+  "RUBRO_NEGOCIO": "venta y despacho de agua purificada",
+  "HORARIOS_ATENCION": "Lunes a viernes 09:00–19:00, sábado 10:00–14:00",
+  "REGLA_TRANSFERENCIA_HUMANO": "pasar con una persona del equipo",
+  "TELEFONO_OFICIAL": "+56 9 0000 0000",
+  "ZONAS_REPARTO": "Sector Centro y Sector Norte (ficticios)",
+  "DIAS_REPARTO": "lunes, miércoles y viernes de 10:00 a 18:00",
+  "HORA_CORTE": "17:00 del día anterior",
+  "SERVICIOS_Y_PRECIOS_CLP": "- Recarga bidón 20 L: $2.500 CLP\n- Bidón nuevo 20 L con agua: $7.000 CLP\n- Dispensador manual: $4.000 CLP"
+}
